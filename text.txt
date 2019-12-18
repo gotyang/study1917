@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is mater 分支
-=======
-this is dev 分支
->>>>>>> dev
+this is mater 锟斤拷支
